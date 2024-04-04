@@ -1,0 +1,4 @@
+
+SCREEN_W = 400
+SCREEN_H = 760
+SONG_H = 25
